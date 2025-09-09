@@ -1,0 +1,128 @@
+Game Design Document (GDD)
+
+1. Visão Geral
+
+Título: Astianax - No Labirinto Do Minotauro ---- Parte 1 ----
+
+Gênero: RPG 2D de pixel art, com elementos de exploração e narrativa
+
+Plataforma: PC 
+
+Público-alvo: fãs de Chrono Trigger, Stardew Valley e Undertale
+
+2. História
+	Astianax e noivo de Dafne jovem tão bela quanto Vênus a deusa do amor e da beleza.
+ Um dia Dafne é sequestrada por um monstro,
+	O Minotauro e levada para um templo onde um portal os levam para a antiga ilha de Creta.
+ Astianax parte então em busca de recuperar o seu grande amor.
+ 
+3. Personagens
+Astianax – protagonista, determinado, possui ataques com espada, machado
+ e faz uso de ferramentas que o auxiliam em seus desafios ao longo do jogo.
+ 
+Dafne – Bela e formosa jovem noiva de Astianax.
+
+O Minotauro – Monstro lendário e Grande rei de Creta.
+
+Pais de Dafne: Orfélios e Dejanira, servos,um pescador e sua filha, e outros npcs e monstros,etc.
+
+Hades – Deus Infernal. Aparece no fim do jogo contemplando a beleza da jovem Dafne.
+
+Vênus – Deusa do amor e defensora dos enamorados. Ajuda Astianax em sua jornada.
+
+
+
+3.1 Atributos Iniciais dos Personagens
+
+Personagem	HP	Força	Agilidade	Magia
+Astianax	120	8	6	4
+				
+				
+4. Mecânicas
+
+• Combate em tempo real.
+
+• Exploração livre em vilas, cavernas e florestas na ilha de Creta.
+
+• Inventário e crafting de poções e armas simples.
+
+4.1 Fluxo de Gameplay
+
+Fluxo Básico:
+
+1. Início na vila → 2. Viajem no tempo → 3. Desafios no labirinto de Creta. 
+→ 4. Batalha com o Minotauro. → 5. Retorno para o presente.
+
+5. Arte e Estilo
+
+• Pixel art colorida, sprites com 32x32 pixels.
+
+• Animações suaves para ataques e feitiços.
+
+• Cenários inspirados em natureza e ruínas antigas.
+
+6. Áudio
+
+• Trilha em chiptune orquestral, remetendo a RPGs clássicos.
+
+• Efeitos sonoros retrô (espada, passos, magia).
+
+7. Interface e Controles
+
+• Movimento: setas direcionais e as teclas w/ A/S/D.
+
+• Ataque: tecla Space.
+
+• Inventário: tecla I.
+
+•pause: tecla P.
+
+• Menu: tecla M.
+
+8. Progressão
+
+• Jogador evolui ao derrotar inimigos e completar missões.
+
+• Cada nível concede pontos para atributos (Força, Agilidade, Espírito).
+
+9. Exemplos de Missões
+
+Missão Principal: Resgatar sua noiva Dafne das garras do Minotauro.
+
+Objetivo: Viajar até a antiga cidade de Creta e derrotar o Minotauro.
+
+Recompensa: 500 XP.  Benção da deusa Vênus.
+
+Missão Secundária: O Pescador na via Crato.
+
+Objetivo: salvar a filha de um pescador de ser sacrificada na arena.
+
+Recompensa: 150 XP, Machado de Ferro.
+
+10. Mapa Conceitual das Regiões
+
+Região	Descrição
+
+Vila de Crotona	Ponto inicial da jornada, lar do protagonista e de sua noiva.
+
+Duas Vilas na ilha de Crotona algumas casas e um grande templo antigo	
+Área inicial de exploração, cheia de inimigos fracos.
+Antiga cidade de Creta e labirinto do Minotauro	Local onde Dafne está aprisionada.
+Grande Templo	Portal que os levam de volta a Crotona
+
+
+RESUMO DA HISTÓRIA:
+
+	Entardecer diante da casa dos pais de Dafne. Astianax se despede de sua noiva e vai embora.
+	De repente Dafne ouve um grito de dentro e corre para ver o que há; é quando se depara com o Minotauro e vê sua mãe e seu pai desacordados,
+	então  o monstro a agarra e ela também desmaia a cena termina com o Minotauro a levando embora. Já no antigo templo eles entram por um portal.
+	Algum tempo depois após os pais de Dafne despertarem eles enviam um servo para avisar o que ocorreu com Dafne .
+	Ao saber do ocorrido parte imediatamente ao resgate de sua amada. No caminho enfrenta alguns soldados do Minotauro e no templo precisa lutar contra 
+	um general que ficou para guardar o portal.
+	Após derrotar seu inimigo ele entra no portal e vai parar na antiga ilha de Creta onde reina o Monstro Minotauro .Já no passado ele precisa salvar a filha
+	de um pescador. Após Salva-la ele recebe deste reles pescador um mapa do famoso labirinto. 
+	No labirinto ele luta com inúmeros monstros até chega na câmara onde o Minotauro prendeu Dafne. 
+	Lá ele enfrenta o Minotauro e após derrota-lo ele volta para o presente com sua amada.
+	Antes que eles voltem aparece Hades Contemplando em uma vasilha a beleza da jovem ,então os dois entram pelo portal.
+	Já de volta ao presente celebram seu casamento. 
+				FIM?
