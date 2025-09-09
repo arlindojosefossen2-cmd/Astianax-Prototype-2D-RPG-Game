@@ -13,7 +13,7 @@ public final class GameAudio
 	public static final IAudio surf = new Music("/musics/surf.wav");
 	
 	/** menu music. */
-	public static  final IAudio acronic = new Music("/musics/acronic.wav");
+	public static  final IAudio acronic = new Music("/musics/mecanic1.wav");
 	
 	/** menu music. */
 	public static  final IAudio blueboy = new Music("/musics/BlueBoyAdventure.wav");
@@ -44,4 +44,5 @@ public final class GameAudio
 	
 	/** weapon efx. */
 	public static  final IAudio weapon = new SoundEFX("/musics/swingweapon.wav");
+
 }
